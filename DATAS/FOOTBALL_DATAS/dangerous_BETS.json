@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "league": "serie_A",
+            "date": "02-05-2021",
+            "local_team": "Napoles",
+            "visitor_team": "Cagliari",
+            "local_winer": 1.33,
+            "visitor_winer": 8.0,
+            "draw": 5.5
+        },
+        {
+            "league": "serie_A",
+            "date": "02-05-2021",
+            "local_team": "Udinese",
+            "visitor_team": "Juventus",
+            "local_winer": 7.0,
+            "visitor_winer": 1.42,
+            "draw": 4.75
+        },
+        {
+            "league": "superlig_turkey",
+            "date": "03-05-2021",
+            "local_team": "Fenerbahce",
+            "visitor_team": "BB_Erzurumspor",
+            "local_winer": "1.40",
+            "visitor_winer": "7.00",
+            "draw": "4.50"
+        },
+        {
+            "league": "premier_league",
+            "date": "08-05-2021",
+            "local_team": "Liverpool",
+            "visitor_team": "Southampton_FC",
+            "local_winer": "1.30",
+            "visitor_winer": "8.50",
+            "draw": "5.75"
+        },
+        {
+            "league": "bundesliga",
+            "date": "08-05-2021",
+            "local_team": "Bayern_de_Munich",
+            "visitor_team": "Borussia_Mgladbach",
+            "local_winer": "1.33",
+            "visitor_winer": "8.00",
+            "draw": "5.50"
+        },
+        {
+            "league": "laliga",
+            "date": "16-05-2021",
+            "local_team": "Granada",
+            "visitor_team": "Real_Madrid",
+            "local_winer": "7.50",
+            "visitor_winer": "1.37",
+            "draw": "5.25"
+        },
+        {
+            "league": "laliga",
+            "date": "16-05-2021",
+            "local_team": "Real_Sociedad",
+            "visitor_team": "Real_Valladolid",
+            "local_winer": "1.57",
+            "visitor_winer": "6.00",
+            "draw": "4.00"
+        },
+        {
+            "league": "serie_A",
+            "date": "16-05-2021",
+            "local_team": "Milan",
+            "visitor_team": "Cagliari",
+            "local_winer": "1.37",
+            "visitor_winer": "7.50",
+            "draw": "5.00"
+        }
+    ]
+}

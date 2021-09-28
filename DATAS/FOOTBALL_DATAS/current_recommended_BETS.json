@@ -1,0 +1,76 @@
+{
+    "data": [
+        {
+            "league": "ligue_1",
+            "date": "23-05-2021",
+            "local_team": "Angers",
+            "visitor_team": "Lille",
+            "local_winer": "10.00",
+            "visitor_winer": "1.33",
+            "draw": "4.75"
+        },
+        {
+            "league": "ligue_1",
+            "date": "23-05-2021",
+            "local_team": "Brest",
+            "visitor_team": "PSG",
+            "local_winer": "10.00",
+            "visitor_winer": "1.24",
+            "draw": "6.50"
+        },
+        {
+            "league": "ligue_1",
+            "date": "23-05-2021",
+            "local_team": "O_Lyon",
+            "visitor_team": "Niza",
+            "local_winer": "1.20",
+            "visitor_winer": "12.00",
+            "draw": "7.00"
+        },
+        {
+            "league": "ligue_1",
+            "date": "23-05-2021",
+            "local_team": "Rennes",
+            "visitor_team": "Nimes",
+            "local_winer": "1.25",
+            "visitor_winer": "11.00",
+            "draw": "5.80"
+        },
+        {
+            "league": "ligue_1",
+            "date": "23-05-2021",
+            "local_team": "St_Etienne",
+            "visitor_team": "Dijon",
+            "local_winer": "1.27",
+            "visitor_winer": "11.00",
+            "draw": "5.50"
+        },
+        {
+            "league": "premiere_league",
+            "date": "23-05-2021",
+            "local_team": "Liverpool",
+            "visitor_team": "Crystal_Palace",
+            "local_winer": "1.15",
+            "visitor_winer": "17.00",
+            "draw": "6.00"
+        },
+        {
+            "league": "serie_A",
+            "date": "23-05-2021",
+            "local_team": "Bolonia",
+            "visitor_team": "Juventus",
+            "local_winer": "13.00",
+            "visitor_winer": "1.22",
+            "draw": "6.00"
+        },
+        {
+            "league": "serie_A",
+            "date": "23-05-2021",
+            "local_team": "Napoles",
+            "visitor_team": "Verona",
+            "local_winer": "1.20",
+            "visitor_winer": "13.00",
+            "draw": "6.50"
+        }
+    ]
+}

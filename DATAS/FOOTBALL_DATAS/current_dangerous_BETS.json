@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "league": "premiere_league",
+            "date": "23-05-2021",
+            "local_team": "Man_City",
+            "visitor_team": "Everton",
+            "local_winer": "1.40",
+            "visitor_winer": "7.00",
+            "draw": "5.00"
+        },
+        {
+            "league": "Serie_A",
+            "date": "23-05-2021",
+            "local_team": "Inter_Milan",
+            "visitor_team": "Udinese",
+            "local_winer": "1.38",
+            "visitor_winer": "7.50",
+            "draw": "5.00"
+        },
+        {
+            "league": "premiere_league",
+            "date": "23-05-2021",
+            "local_team": "Leeds",
+            "visitor_team": "West_Brom",
+            "local_winer": "1.47",
+            "visitor_winer": "6.00",
+            "draw": "4.80"
+        },
+        {
+            "league": "premiere_league",
+            "date": "23-05-2021",
+            "local_team": "Aston_Villa",
+            "visitor_team": "Chelsea",
+            "local_winer": "6.50",
+            "visitor_winer": "1.47",
+            "draw": "4.50"
+        }
+    ]
+}

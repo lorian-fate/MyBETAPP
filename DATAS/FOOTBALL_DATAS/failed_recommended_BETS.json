@@ -1,0 +1,85 @@
+{
+    "data": [
+        {
+            "league": "laliga",
+            "date": "28-04-2021",
+            "local_team": "Barcelona",
+            "visitor_team": "Granada",
+            "local_winer": "1.14",
+            "visitor_winer": "17.00",
+            "draw": "8.50"
+        },
+        {
+            "league": "paranaense_Brazil",
+            "date": "29-04-2021",
+            "local_team": "Rio_Branco_PR",
+            "visitor_team": "Cascavel_CRPR",
+            "local_winer": "1.37",
+            "visitor_winer": "8.00",
+            "draw": "4.00"
+        },
+        {
+            "league": "holland",
+            "date": "02-05-2021",
+            "local_team": "Den_Haag",
+            "visitor_team": "Feyenoord",
+            "local_winer": "8.50",
+            "visitor_winer": "1.33",
+            "draw": "5.00"
+        },
+        {
+            "league": "premier_league",
+            "date": "07-05-2021",
+            "local_team": "Leicester_City",
+            "visitor_team": "Newcastle_United",
+            "local_winer": "1.36",
+            "visitor_winer": "8.00",
+            "draw": "5.00"
+        },
+        {
+            "league": "super_lig",
+            "date": "11-05-2021",
+            "local_team": "Besiktas",
+            "visitor_team": "Fatih_Karagumruk_I",
+            "local_winer": "1.22",
+            "visitor_winer": "11.00",
+            "draw": "6.00"
+        },
+        {
+            "league": "laliga",
+            "date": "16-05-2021",
+            "local_team": "Barcelona",
+            "visitor_team": "Celta_de_Vigo",
+            "local_winer": "1.22",
+            "visitor_winer": "11.00",
+            "draw": "7.00"
+        },
+        {
+            "league": "laliga_2",
+            "date": "16-05-2021",
+            "local_team": "Leganes",
+            "visitor_team": "Logro\u00f1es",
+            "local_winer": "1.57",
+            "visitor_winer": "6.50",
+            "draw": "3.60"
+        },
+        {
+            "league": "laliga_2",
+            "date": "16-05-2021",
+            "local_team": "Mallorca",
+            "visitor_team": "Alcorcon",
+            "local_winer": "1.66",
+            "visitor_winer": "6.50",
+            "draw": "3.20"
+        },
+        {
+            "league": "premier_League",
+            "date": "16-05-2021",
+            "local_team": "Everton",
+            "visitor_team": "Sheffield_United",
+            "local_winer": "1.37",
+            "visitor_winer": "8.00",
+            "draw": "5.00"
+        }
+    ]
+}

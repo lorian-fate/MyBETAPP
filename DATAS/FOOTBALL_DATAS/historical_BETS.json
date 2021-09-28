@@ -1,0 +1,1534 @@
+{
+    "data": [
+        {
+            "league": "spain",
+            "date": "21-04-2021",
+            "local_team": "ELCHE",
+            "visitor_team": "REAL VALLADOLID",
+            "local_winer": 2.9,
+            "visitor_winer": 2.7,
+            "draw": 3.0
+        },
+        {
+            "league": "spain",
+            "date": "21-04-2021",
+            "local_team": "CADIZ",
+            "visitor_team": "REAL MADRID",
+            "local_winer": 9.0,
+            "visitor_winer": 1.37,
+            "draw": 4.75
+        },
+        {
+            "league": "spain",
+            "date": "22-04-2021",
+            "local_team": "Atletico_Madrid",
+            "visitor_team": "Huesca",
+            "local_winer": "1.40",
+            "visitor_winer": "8.00",
+            "draw": "4.50"
+        },
+        {
+            "league": "spain",
+            "date": "22-04-2021",
+            "local_team": "Real_Sociedad",
+            "visitor_team": "Celta_De_Vigo",
+            "local_winer": "1.83",
+            "visitor_winer": "4.20",
+            "draw": "3.75"
+        },
+        {
+            "league": "spain",
+            "date": "22-04-2021",
+            "local_team": "Granada",
+            "visitor_team": "Eibar",
+            "local_winer": "2.40",
+            "visitor_winer": "3.20",
+            "draw": "3.10"
+        },
+        {
+            "league": "spain",
+            "date": "22-04-2021",
+            "local_team": "Barcelona",
+            "visitor_team": "Getafe",
+            "local_winer": "1.20",
+            "visitor_winer": "13.00",
+            "draw": "6.50"
+        },
+        {
+            "league": "serie_A",
+            "date": "22-04-2021",
+            "local_team": "Napoles",
+            "visitor_team": "Lazio",
+            "local_winer": "2.05",
+            "visitor_winer": "3.50",
+            "draw": "3.60"
+        },
+        {
+            "league": "england",
+            "date": "22-04-2021",
+            "local_team": "Liverpool",
+            "visitor_team": "Newcastle_United",
+            "local_winer": "1.25",
+            "visitor_winer": "11.00",
+            "draw": "6.0"
+        },
+        {
+            "league": "portugal",
+            "date": "22-04-2021",
+            "local_team": "Oporto",
+            "visitor_team": "Vitoria_de_G",
+            "local_winer": "1.36",
+            "visitor_winer": "8.00",
+            "draw": "4.75"
+        },
+        {
+            "league": "portugal",
+            "date": "22-04-2021",
+            "local_team": "Portimonense",
+            "visitor_team": "Benfica",
+            "local_winer": "6.50",
+            "visitor_winer": "1.45",
+            "draw": "4.33"
+        },
+        {
+            "league": "spain",
+            "date": "22-04-2021",
+            "local_team": "Barcelona",
+            "visitor_team": "Getafe",
+            "local_winer": "1.22",
+            "visitor_winer": "13.00",
+            "draw": "6.50"
+        },
+        {
+            "league": "england",
+            "date": "23-04-2021",
+            "local_team": "Arsenal",
+            "visitor_team": "Everton",
+            "local_winer": "2.05",
+            "visitor_winer": "3.40",
+            "draw": "3.60"
+        },
+        {
+            "league": "ligue_1",
+            "date": "23-04-2021",
+            "local_team": "State_de_Reims",
+            "visitor_team": "O._Marsella",
+            "local_winer": "3.50",
+            "visitor_winer": "3.40",
+            "draw": "2.10"
+        },
+        {
+            "league": "holland",
+            "date": "23-04-2021",
+            "local_team": "Willem_II",
+            "visitor_team": "RKC_Waalwijk",
+            "local_winer": "1.85",
+            "visitor_winer": "3.60",
+            "draw": "3.80"
+        },
+        {
+            "league": "spain",
+            "date": "24-04-2021",
+            "local_team": "Real_Valladolid",
+            "visitor_team": "Cadiz",
+            "local_winer": "1.87",
+            "visitor_winer": "3.25",
+            "draw": "4.75"
+        },
+        {
+            "league": "spain",
+            "date": "24-04-2021",
+            "local_team": "Real_Madrid",
+            "visitor_team": "Betis",
+            "local_winer": "1.53",
+            "visitor_winer": "4.33",
+            "draw": "5.75"
+        },
+        {
+            "league": "spain",
+            "date": "24-04-2021",
+            "local_team": "Valencia",
+            "visitor_team": "Alaves",
+            "local_winer": "2.05",
+            "visitor_winer": "3.25",
+            "draw": "3.75"
+        },
+        {
+            "league": "england",
+            "date": "24-04-2021",
+            "local_team": "Liverpool",
+            "visitor_team": "Newcastle_United",
+            "local_winer": "1.05",
+            "visitor_winer": "10.00",
+            "draw": "26.00"
+        },
+        {
+            "league": "england",
+            "date": "24-04-2021",
+            "local_team": "West_Ham_United",
+            "visitor_team": "Chelsea",
+            "local_winer": "5.25",
+            "visitor_winer": "3.75",
+            "draw": "1.66"
+        },
+        {
+            "league": "england",
+            "date": "24-04-2021",
+            "local_team": "Sheffield_United",
+            "visitor_team": "Brighton",
+            "local_winer": "6.00",
+            "visitor_winer": "3.75",
+            "draw": "1.60"
+        },
+        {
+            "league": "seria_A",
+            "date": "24-04-2021",
+            "local_team": "Genova",
+            "visitor_team": "Spezia",
+            "local_winer": "2.30",
+            "visitor_winer": "3.10",
+            "draw": "3.40"
+        },
+        {
+            "league": "serie_A",
+            "date": "24-04-2021",
+            "local_team": "Parma",
+            "visitor_team": "Crotone",
+            "local_winer": "1.72",
+            "visitor_winer": "4.00",
+            "draw": "4.45"
+        },
+        {
+            "league": "serie_A",
+            "date": "24-04-2021",
+            "local_team": "Sassuolo",
+            "visitor_team": "Sampdoria",
+            "local_winer": "1.85",
+            "visitor_winer": "4.00",
+            "draw": "3.80"
+        },
+        {
+            "league": "ligue_1",
+            "date": "24-04-2021",
+            "local_team": "Saint_Etienne",
+            "visitor_team": "Stade_brestois",
+            "local_winer": "1.30",
+            "visitor_winer": "4.20",
+            "draw": "11.00"
+        },
+        {
+            "league": "ligue_1",
+            "date": "24-04-2021",
+            "local_team": "Metz",
+            "visitor_team": "PSG",
+            "local_winer": "11.00",
+            "visitor_winer": "6.00",
+            "draw": "1.25"
+        },
+        {
+            "league": "bundesliga",
+            "date": "24-04-2021",
+            "local_team": "Friburgo",
+            "visitor_team": "TSG_Hoffenheim",
+            "local_winer": "2.90",
+            "visitor_winer": "3.50",
+            "draw": "2.37"
+        },
+        {
+            "league": "bundesliga",
+            "date": "24-04-2021",
+            "local_team": "Mainz",
+            "visitor_team": "Bayern_De_Munich",
+            "local_winer": "8.50",
+            "visitor_winer": "6.00",
+            "draw": "1.30"
+        },
+        {
+            "league": "russian",
+            "date": "24-04-2021",
+            "local_team": "Dynamo_Mosku",
+            "visitor_team": "Khimki",
+            "local_winer": "1.45",
+            "visitor_winer": "4.20",
+            "draw": "7.00"
+        },
+        {
+            "league": "holland",
+            "date": "24-04-2021",
+            "local_team": "Sparta_Rotterdam",
+            "visitor_team": "VVV_Venlo",
+            "local_winer": "1.61",
+            "visitor_winer": "4.00",
+            "draw": "5.00"
+        },
+        {
+            "league": "holland",
+            "date": "24-04-2021",
+            "local_team": "PSV_Eindhoven",
+            "visitor_team": "Groningen",
+            "local_winer": "1.22",
+            "visitor_winer": "6.50",
+            "draw": "10.00"
+        },
+        {
+            "league": "spain",
+            "date": "25-04-2021",
+            "local_team": "Sevilla",
+            "visitor_team": "Granada",
+            "local_winer": "1.40",
+            "visitor_winer": "4.75",
+            "draw": "8.00"
+        },
+        {
+            "league": "spain",
+            "date": "25-04-2021",
+            "local_team": "Villareal",
+            "visitor_team": "Barcelona",
+            "local_winer": "5.00",
+            "visitor_winer": "4.33",
+            "draw": "1.61"
+        },
+        {
+            "league": "serie_A",
+            "date": "25-04-2021",
+            "local_team": "Inter",
+            "visitor_team": "Hellas_Verona",
+            "local_winer": "1.33",
+            "visitor_winer": "5.00",
+            "draw": "10.00"
+        },
+        {
+            "league": "serie_A",
+            "date": "25-04-2021",
+            "local_team": "Atalanta",
+            "visitor_team": "Bologna",
+            "local_winer": "1.30",
+            "visitor_winer": "5.75",
+            "draw": "8.50"
+        },
+        {
+            "league": "bundesliga",
+            "date": "25-04-2021",
+            "local_team": "Leipzig",
+            "visitor_team": "Stuttgart",
+            "local_winer": "1.36",
+            "visitor_winer": "5.25",
+            "draw": "8.00"
+        },
+        {
+            "league": "bundesliga",
+            "date": "25-04-2021",
+            "local_team": "Borussia_Mgladbach",
+            "visitor_team": "Arminia_Bielefeld",
+            "local_winer": "1.61",
+            "visitor_winer": "3.80",
+            "draw": "6.00"
+        },
+        {
+            "league": "ligue_1",
+            "date": "25-04-2021",
+            "local_team": "Rennes",
+            "visitor_team": "Dijon",
+            "local_winer": "1.30",
+            "visitor_winer": "5.50",
+            "draw": "10.00"
+        },
+        {
+            "league": "ligue_1",
+            "date": "25-04-2021",
+            "local_team": "Angers",
+            "visitor_team": "Monaco",
+            "local_winer": "7.50",
+            "visitor_winer": "1.42",
+            "draw": "4.50"
+        },
+        {
+            "league": "laliga",
+            "date": "26-04-2021",
+            "local_team": "Eibar",
+            "visitor_team": "Real_sociedad",
+            "local_winer": "4.00",
+            "visitor_winer": "1.90",
+            "draw": "3.50"
+        },
+        {
+            "league": "premier_league",
+            "date": "26-04-2021",
+            "local_team": "Leicester_city",
+            "visitor_team": "Crystal_palace",
+            "local_winer": "1.40",
+            "visitor_winer": "8.50",
+            "draw": "4.50"
+        },
+        {
+            "league": "primeira_liga",
+            "date": "26-04-2021",
+            "local_team": "Benfica",
+            "visitor_team": "Santa_clara",
+            "local_winer": "1.28",
+            "visitor_winer": "10.00",
+            "draw": "5.25"
+        },
+        {
+            "league": "primeira_liga",
+            "date": "26-04-2021",
+            "local_team": "Moreirense",
+            "visitor_team": "Oporto",
+            "local_winer": "11.00",
+            "visitor_winer": "1.25",
+            "draw": "5.50"
+        },
+        {
+            "league": "serie_A",
+            "date": "26-04-2021",
+            "local_team": "Torino",
+            "visitor_team": "Napoles",
+            "local_winer": "3.80",
+            "visitor_winer": "1.87",
+            "draw": "3.80"
+        },
+        {
+            "league": "serie_A",
+            "date": "26-04-2021",
+            "local_team": "Lazio",
+            "visitor_team": "Milan",
+            "local_winer": "2.30",
+            "visitor_winer": "2.90",
+            "draw": "3.75"
+        },
+        {
+            "league": "Bundesliga_2",
+            "date": "26-04-2021",
+            "local_team": "Karlsruhe",
+            "visitor_team": "Erzgebirge_aue",
+            "local_winer": "1.90",
+            "visitor_winer": "3.80",
+            "draw": "3.50"
+        },
+        {
+            "league": "Bundelisga_2",
+            "date": "26-04-2021",
+            "local_team": "Darmstadt",
+            "visitor_team": "Bochum",
+            "local_winer": "3.20",
+            "visitor_winer": "2.15",
+            "draw": "3.40"
+        },
+        {
+            "league": "Superligaen",
+            "date": "26-04-2021",
+            "local_team": "Nordsjaelland",
+            "visitor_team": "Midtjylland",
+            "local_winer": "6.00",
+            "visitor_winer": "1.50",
+            "draw": "4.20"
+        },
+        {
+            "league": "NBA",
+            "date": "26-04-2021",
+            "local_team": "Atlanta_Hawks",
+            "visitor_team": "Detroit_Pistons",
+            "local_winer": "1.60",
+            "visitor_winer": "2.60",
+            "draw": "13.25"
+        },
+        {
+            "league": "NBA",
+            "date": "26-04-2021",
+            "local_team": "Angeles_Lakers",
+            "visitor_team": "Orlando_Magic",
+            "local_winer": "1.21",
+            "visitor_winer": "5.30",
+            "draw": "15.00"
+        },
+        {
+            "league": "NBA",
+            "date": "26-04-2021",
+            "local_team": "Oklahoma_City",
+            "visitor_team": "Philadelphia_76ers",
+            "local_winer": "6.80",
+            "visitor_winer": "1.15",
+            "draw": "18.50"
+        },
+        {
+            "league": "NBA",
+            "date": "26-04-2021",
+            "local_team": "San_Antonio_Spurs",
+            "visitor_team": "Washington_Wizards",
+            "local_winer": "1.60",
+            "visitor_winer": "2.50",
+            "draw": "16.00"
+        },
+        {
+            "league": "NBA",
+            "date": "26-04-2021",
+            "local_team": "Phoenix_Suns",
+            "visitor_team": "New_yYork_Knicks",
+            "local_winer": "1.76",
+            "visitor_winer": "2.20",
+            "draw": "13.50"
+        },
+        {
+            "league": "NBA",
+            "date": "26-04-2021",
+            "local_team": "Clevelalnd_Cavaliers",
+            "visitor_team": "Toronto_Raptors",
+            "local_winer": "6.10",
+            "visitor_winer": "1.17",
+            "draw": "17.50"
+        },
+        {
+            "league": "NBA",
+            "date": "26-04-2021",
+            "local_team": "Chicago_Bulls",
+            "visitor_team": "Miami_Heat",
+            "local_winer": "2.95",
+            "visitor_winer": "1.48",
+            "draw": "13.25"
+        },
+        {
+            "league": "NBA",
+            "date": "26-04-2021",
+            "local_team": "Utah_Jazz",
+            "visitor_team": "Minnesota_T",
+            "local_winer": "1.22",
+            "visitor_winer": "4.80",
+            "draw": "19.50"
+        },
+        {
+            "league": "NBA",
+            "date": "26-04-2021",
+            "local_team": "Angeles_Clippers",
+            "visitor_team": "New_Orleans_Pelicans",
+            "local_winer": "1.90",
+            "visitor_winer": "2.05",
+            "draw": "13.50"
+        },
+        {
+            "league": "liga_ACB",
+            "date": "26-04-2021",
+            "local_team": "Basket_Zaragoza",
+            "visitor_team": "BC_Amdorra",
+            "local_winer": "1.50",
+            "visitor_winer": "3.00",
+            "draw": "15.00"
+        },
+        {
+            "league": "liga_ACB",
+            "date": "26-04-2021",
+            "local_team": "CJB",
+            "visitor_team": "B_Manresa",
+            "local_winer": "1.35",
+            "visitor_winer": "3.50",
+            "draw": "17.00"
+        },
+        {
+            "league": "liga_ACB",
+            "date": "26-04-2021",
+            "local_team": "San_Pablo_Burgos",
+            "visitor_team": "Real_Betis",
+            "local_winer": "1.30",
+            "visitor_winer": "4.00",
+            "draw": "18.00"
+        },
+        {
+            "league": "liga_ACB",
+            "date": "26-04-2021",
+            "local_team": "San_Pablo_Burgos",
+            "visitor_team": "Real_Betis",
+            "local_winer": "3.20",
+            "visitor_winer": "1.40",
+            "draw": "16.00"
+        },
+        {
+            "league": "liga_national_Rumania",
+            "date": "26-04-2021",
+            "local_team": "CS_Dacia_Mioveni",
+            "visitor_team": "CSU_Cluj_N",
+            "local_winer": "2.20",
+            "visitor_winer": "1.85",
+            "draw": "8.00"
+        },
+        {
+            "league": "liga_national_Rumania",
+            "date": "26-04-2021",
+            "local_team": "Handball_Club_ZC",
+            "visitor_team": "CS_Gloria_C",
+            "local_winer": "3.20",
+            "visitor_winer": "1.45",
+            "draw": "8.50"
+        },
+        {
+            "league": "liga_national_Rumania",
+            "date": "26-04-2021",
+            "local_team": "CSM_Galati_CF",
+            "visitor_team": "HC_Dunarea_BCF",
+            "local_winer": "11.00",
+            "visitor_winer": "1.03",
+            "draw": "18.00"
+        },
+        {
+            "league": "liga_national_Rumania",
+            "date": "26-04-2021",
+            "local_team": "CS_Rapid_BCF",
+            "visitor_team": "CS_Minaur_BMCF",
+            "local_winer": "6.00",
+            "visitor_winer": "1.15",
+            "draw": "12.00"
+        },
+        {
+            "league": "england_liga_1",
+            "date": "27-04-2021",
+            "local_team": "Charlton_Atl",
+            "visitor_team": "Crewe_Alex",
+            "local_winer": "1.65",
+            "visitor_winer": "5.00",
+            "draw": "3.80"
+        },
+        {
+            "league": "england_liga_1",
+            "date": "27-04-2021",
+            "local_team": "Peterborough_U",
+            "visitor_team": "Doncaster_R",
+            "local_winer": "1.40",
+            "visitor_winer": "7.50",
+            "draw": "4.75"
+        },
+        {
+            "league": "england_liga_2",
+            "date": "27-04-2021",
+            "local_team": "Newport_C",
+            "visitor_team": "Scunthorpe_U",
+            "local_winer": "1.60",
+            "visitor_winer": "6.00",
+            "draw": "3.75"
+        },
+        {
+            "league": "tennis_PROOF",
+            "date": "27-04-2021",
+            "local_team": "player_1",
+            "visitor_team": "player_2",
+            "local_winer": "4.20",
+            "visitor_winer": "9.00",
+            "draw": "1.22"
+        },
+        {
+            "league": "turkey",
+            "date": "28-04-2021",
+            "local_team": "Galatasaray",
+            "visitor_team": "Konyaspor",
+            "local_winer": "1.44",
+            "visitor_winer": "6.00",
+            "draw": "4.33"
+        },
+        {
+            "league": "austria",
+            "date": "28-04-2021",
+            "local_team": "Red_bull_Salzburg",
+            "visitor_team": "Wolfsberger",
+            "local_winer": "1.25",
+            "visitor_winer": "10.00",
+            "draw": "6.00"
+        },
+        {
+            "league": "liga_Nacional_Rusia",
+            "date": "28-04-2021",
+            "local_team": "FC_Volgar",
+            "visitor_team": "Shinnik_Yaroslavi",
+            "local_winer": "1.42",
+            "visitor_winer": "6.50",
+            "draw": "4.20"
+        },
+        {
+            "league": "liga_Nacional_Rusia",
+            "date": "28-04-2021",
+            "local_team": "Chertanovo",
+            "visitor_team": "Orenburg",
+            "local_winer": "11.00",
+            "visitor_winer": "1.22",
+            "draw": "5.50"
+        },
+        {
+            "league": "liga_Nacional_Rusia",
+            "date": "28-04-2021",
+            "local_team": "FC_Nizhny_Novgorod",
+            "visitor_team": "FK_Yenisey",
+            "local_winer": "1.42",
+            "visitor_winer": "6.50",
+            "draw": "4.20"
+        },
+        {
+            "league": "liga_Nacional_Rusia",
+            "date": "28-04-2021",
+            "local_team": "Alania_Vladikavkaz",
+            "visitor_team": "Krasnodar_2",
+            "local_winer": "1.18",
+            "visitor_winer": "13.00",
+            "draw": "6.00"
+        },
+        {
+            "league": "brasiliense_Brazil",
+            "date": "28-04-2021",
+            "local_team": "Brasiliense",
+            "visitor_team": "Ceilandia_Esporte_CDF",
+            "local_winer": "1.20",
+            "visitor_winer": "11.00",
+            "draw": "5.75"
+        },
+        {
+            "league": "chipre",
+            "date": "28-04-2021",
+            "local_team": "Doxa_Katokopias",
+            "visitor_team": "Karmiotissa",
+            "local_winer": "1.18",
+            "visitor_winer": "13.00",
+            "draw": "6.00"
+        },
+        {
+            "league": "copa_sudamericana",
+            "date": "28-04-2021",
+            "local_team": "Athletico_PR",
+            "visitor_team": "Metropolitanos_FC",
+            "local_winer": "1.12",
+            "visitor_winer": "21.00",
+            "draw": "8.00"
+        },
+        {
+            "league": "copa_sudamericana",
+            "date": "28-04-2021",
+            "local_team": "CA_Independiente",
+            "visitor_team": "Torque",
+            "local_winer": "1.65",
+            "visitor_winer": "5.00",
+            "draw": "3.75"
+        },
+        {
+            "league": "copa_libertadores",
+            "date": "28-04-2021",
+            "local_team": "Cerro_Porte\u00f1o",
+            "visitor_team": "Depoprtivo_la_Guaira",
+            "local_winer": "1.35",
+            "visitor_winer": "9.00",
+            "draw": "4.75"
+        },
+        {
+            "league": "copa_libertadores",
+            "date": "28-04-2021",
+            "local_team": "Defensa_y_justicia",
+            "visitor_team": "Univ_de_deportes",
+            "local_winer": "1.22",
+            "visitor_winer": "11.00",
+            "draw": "6.50"
+        },
+        {
+            "league": "copa_libertadores",
+            "date": "28-04-2021",
+            "local_team": "River_plate",
+            "visitor_team": "Junior_Barranquilla",
+            "local_winer": "1.30",
+            "visitor_winer": "10.00",
+            "draw": "5.00"
+        },
+        {
+            "league": "copa_libertadores",
+            "date": "28-04-2021",
+            "local_team": "Barcelona",
+            "visitor_team": "The_Strongest",
+            "local_winer": "1.25",
+            "visitor_winer": "10.00",
+            "draw": "5.75"
+        },
+        {
+            "league": "laliga",
+            "date": "28-04-2021",
+            "local_team": "Barcelona",
+            "visitor_team": "Granada",
+            "local_winer": "1.14",
+            "visitor_winer": "17.00",
+            "draw": "8.50"
+        },
+        {
+            "league": "superliga_Serbia",
+            "date": "29-04-2021",
+            "local_team": "Radnicki_Nis",
+            "visitor_team": "Indjija",
+            "local_winer": "1.30",
+            "visitor_winer": "8.00",
+            "draw": "4.75"
+        },
+        {
+            "league": "superliga_Serbia",
+            "date": "29-04-2021",
+            "local_team": "Proleter_Novi_T",
+            "visitor_team": "Partizan_De_Belgrado",
+            "local_winer": "11.00",
+            "visitor_winer": "1.22",
+            "draw": "5.25"
+        },
+        {
+            "league": "superliga_Serbia",
+            "date": "29-04-2021",
+            "local_team": "Estrella_Roja",
+            "visitor_team": "Vojvodina_Nivi",
+            "local_winer": "1.20",
+            "visitor_winer": "10.00",
+            "draw": "6.00"
+        },
+        {
+            "league": "copa_Iran",
+            "date": "29-04-2021",
+            "local_team": "Gol_Gohar",
+            "visitor_team": "Pars_Jonoubi_Jam",
+            "local_winer": "1.37",
+            "visitor_winer": "8.00",
+            "draw": "4.00"
+        },
+        {
+            "league": "copa_Eslovaquia",
+            "date": "29-04-2021",
+            "local_team": "Slovan_Bratislava",
+            "visitor_team": "Dukla_Banska_B",
+            "local_winer": "1.22",
+            "visitor_winer": "9.00",
+            "draw": "5.75"
+        },
+        {
+            "league": "Premier_League_Egipto",
+            "date": "29-04-2021",
+            "local_team": "El_Zamalek",
+            "visitor_team": "Al_Mokawloon_Al_Arab",
+            "local_winer": "1.30",
+            "visitor_winer": "9.00",
+            "draw": "4.50"
+        },
+        {
+            "league": "liga_Dinamarca",
+            "date": "29-04-2021",
+            "local_team": "Esbjerg_FB",
+            "visitor_team": "HB_Koge",
+            "local_winer": "1.60",
+            "visitor_winer": "5.00",
+            "draw": "3.80"
+        },
+        {
+            "league": "copa_Azerbaiyan",
+            "date": "29-04-2021",
+            "local_team": "Qarabag",
+            "visitor_team": "FK_Sumgayit",
+            "local_winer": "1.16",
+            "visitor_winer": "15.00",
+            "draw": "6.00"
+        },
+        {
+            "league": "liga_1_China",
+            "date": "29-04-2021",
+            "local_team": "Zhejiang_FC",
+            "visitor_team": "Sichuan_Jiuniu",
+            "local_winer": "1.15",
+            "visitor_winer": "13.00",
+            "draw": "6.50"
+        },
+        {
+            "league": "copa_libertadores",
+            "date": "29-04-2021",
+            "local_team": "Racing_Club",
+            "visitor_team": "Sporting_Cristal",
+            "local_winer": "1.47",
+            "visitor_winer": "6.50",
+            "draw": "4.33"
+        },
+        {
+            "league": "copa_libertadores",
+            "date": "29-04-2021",
+            "local_team": "Sao_Paolo",
+            "visitor_team": "Rentistas",
+            "local_winer": "1.15",
+            "visitor_winer": "17.00",
+            "draw": "7.50"
+        },
+        {
+            "league": "copa_sudamericana",
+            "date": "29-04-2021",
+            "local_team": "Deportivo_la_Equidad",
+            "visitor_team": "Aragua",
+            "local_winer": "1.53",
+            "visitor_winer": "6.00",
+            "draw": "4.00"
+        },
+        {
+            "league": "AFC_champions_League",
+            "date": "29-04-2021",
+            "local_team": "Persepolis_FC",
+            "visitor_team": "Al_Rayyan",
+            "local_winer": "1.40",
+            "visitor_winer": "7.00",
+            "draw": "4.50"
+        },
+        {
+            "league": "AFC_champions_League",
+            "date": "29-04-2021",
+            "local_team": "Goa",
+            "visitor_team": "Al_Wahda_SCC",
+            "local_winer": "15.00",
+            "visitor_winer": "1.20",
+            "draw": "5.75"
+        },
+        {
+            "league": "paraibano_Brazil",
+            "date": "29-04-2021",
+            "local_team": "Perilima_PB",
+            "visitor_team": "Botafogo_PB",
+            "local_winer": "7.50",
+            "visitor_winer": "1.42",
+            "draw": "3.80"
+        },
+        {
+            "league": "paranaense_Brazil",
+            "date": "29-04-2021",
+            "local_team": "Rio_Branco_PR",
+            "visitor_team": "Cascavel_CRPR",
+            "local_winer": "1.37",
+            "visitor_winer": "8.00",
+            "draw": "4.00"
+        },
+        {
+            "league": "paulista_Brazil",
+            "date": "29-04-2021",
+            "local_team": "Palmeiras",
+            "visitor_team": "Inter_de_Limeira",
+            "local_winer": "1.50",
+            "visitor_winer": "6.00",
+            "draw": "3.80"
+        },
+        {
+            "league": "primeira_liga_Portugal",
+            "date": "29-04-2021",
+            "local_team": "Maritimo_Madeira",
+            "visitor_team": "Braga",
+            "local_winer": "5.25",
+            "visitor_winer": "1.65",
+            "draw": "3.60"
+        },
+        {
+            "league": "copa_libertadores",
+            "date": "30-04-2021",
+            "local_team": "Racing_Club",
+            "visitor_team": "Sporting_Cristal",
+            "local_winer": "1.44",
+            "visitor_winer": "7.00",
+            "draw": "4.50"
+        },
+        {
+            "league": "copa_libertadores",
+            "date": "30-04-2021",
+            "local_team": "Sao_paolo",
+            "visitor_team": "Rentistas",
+            "local_winer": "1.13",
+            "visitor_winer": "19.00",
+            "draw": "8.00"
+        },
+        {
+            "league": "premeira_liga",
+            "date": "30-04-2021",
+            "local_team": "Todela",
+            "visitor_team": "Benfica",
+            "local_winer": "9.00",
+            "visitor_winer": "1.28",
+            "draw": "5.50"
+        },
+        {
+            "league": "premeira_liga",
+            "date": "30-04-2021",
+            "local_team": "Oporto",
+            "visitor_team": "Famalicao",
+            "local_winer": "1.36",
+            "visitor_winer": "8.00",
+            "draw": "4.75"
+        },
+        {
+            "league": "laliga",
+            "date": "01-05-2021",
+            "local_team": "Elche",
+            "visitor_team": "Atletico_Madrid",
+            "local_winer": "9.00",
+            "visitor_winer": "1.40",
+            "draw": "4.33"
+        },
+        {
+            "league": "laliga",
+            "date": "01-05-2021",
+            "local_team": "Real_Madrid",
+            "visitor_team": "Osasuna",
+            "local_winer": "1.37",
+            "visitor_winer": "7.50",
+            "draw": "5.00"
+        },
+        {
+            "league": "laliga_2",
+            "date": "01-05-2021",
+            "local_team": "Mallorca",
+            "visitor_team": "Mirandes",
+            "local_winer": "1.57",
+            "visitor_winer": "6.50",
+            "draw": "3.60"
+        },
+        {
+            "league": "premier_league",
+            "date": "01-05-2021",
+            "local_team": "Crystal_Palace",
+            "visitor_team": "Manchester_City",
+            "local_winer": "8.50",
+            "visitor_winer": "1.35",
+            "draw": "5.00"
+        },
+        {
+            "league": "premier_league",
+            "date": "01-05-2021",
+            "local_team": "Chelsea",
+            "visitor_team": "Fulham",
+            "local_winer": "1.50",
+            "visitor_winer": "7.50",
+            "draw": "4.00"
+        },
+        {
+            "league": "ligue_1",
+            "date": "01-05-2021",
+            "local_team": "PSG",
+            "visitor_team": "Lens",
+            "local_winer": "1.40",
+            "visitor_winer": "7.50",
+            "draw": "4.75"
+        },
+        {
+            "league": "ligue_1",
+            "date": "01-05-2021",
+            "local_team": "Lille",
+            "visitor_team": "Niza",
+            "local_winer": "1.44",
+            "visitor_winer": "7.50",
+            "draw": "4.50"
+        },
+        {
+            "league": "holland",
+            "date": "01-05-2021",
+            "local_team": "RKC_Waalwijk",
+            "visitor_team": "AZ",
+            "local_winer": "7.00",
+            "visitor_winer": "1.37",
+            "draw": "5.00"
+        },
+        {
+            "league": "holland",
+            "date": "01-05-2021",
+            "local_team": "Vitesse",
+            "visitor_team": "Zwolle",
+            "local_winer": "1.44",
+            "visitor_winer": "6.50",
+            "draw": "4.50"
+        },
+        {
+            "league": "serie_A",
+            "date": "01-05-2021",
+            "local_team": "Milan",
+            "visitor_team": "Benevento",
+            "local_winer": "1.33",
+            "visitor_winer": "8.00",
+            "draw": "5.50"
+        },
+        {
+            "league": "serie_A",
+            "date": "01-05-2021",
+            "local_team": "Crotone",
+            "visitor_team": "Inter",
+            "local_winer": "12.00",
+            "visitor_winer": "1.22",
+            "draw": "6.50"
+        },
+        {
+            "league": "portugal",
+            "date": "01-05-2021",
+            "local_team": "Sporting_de_lisboa",
+            "visitor_team": "CD_Nacional_Madeira",
+            "local_winer": "1.25",
+            "visitor_winer": "11.00",
+            "draw": "5.50"
+        },
+        {
+            "league": "laliga",
+            "date": "02-05-2021",
+            "local_team": "Valencia",
+            "visitor_team": "Barcelona",
+            "local_winer": "7.00",
+            "visitor_winer": "1.37",
+            "draw": "5.25"
+        },
+        {
+            "league": "laliga_2",
+            "date": "02-05-2021",
+            "local_team": "Espanyol",
+            "visitor_team": "Malaga",
+            "local_winer": "1.33",
+            "visitor_winer": "9.00",
+            "draw": "4.75"
+        },
+        {
+            "league": "premier_league",
+            "date": "02-05-2021",
+            "local_team": "Tottenham",
+            "visitor_team": "Sheffield_United",
+            "local_winer": "1.28",
+            "visitor_winer": "10.00",
+            "draw": "5.75"
+        },
+        {
+            "league": "serie_A",
+            "date": "02-05-2021",
+            "local_team": "Lazio",
+            "visitor_team": "Genova",
+            "local_winer": "1.40",
+            "visitor_winer": "7.50",
+            "draw": "5.00"
+        },
+        {
+            "league": "serie_A",
+            "date": "02-05-2021",
+            "local_team": "Udinese",
+            "visitor_team": "Juventus",
+            "local_winer": "7.00",
+            "visitor_winer": "1.42",
+            "draw": "4.75"
+        },
+        {
+            "league": "holland",
+            "date": "02-05-2021",
+            "local_team": "Den_Haag",
+            "visitor_team": "Feyenoord",
+            "local_winer": "8.50",
+            "visitor_winer": "1.33",
+            "draw": "5.00"
+        },
+        {
+            "league": "holland",
+            "date": "02-05-2021",
+            "local_team": "Ajax",
+            "visitor_team": "FC_Emmen",
+            "local_winer": "1.13",
+            "visitor_winer": "17.00",
+            "draw": "8.50"
+        },
+        {
+            "league": "holland",
+            "date": "02-05-2021",
+            "local_team": "PSV_Eindhoven",
+            "visitor_team": "Heerenveen",
+            "local_winer": "1.25",
+            "visitor_winer": "10.00",
+            "draw": "6.00"
+        },
+        {
+            "league": "serie_A",
+            "date": "02-05-2021",
+            "local_team": "Napoles",
+            "visitor_team": "Cagliari",
+            "local_winer": 1.33,
+            "visitor_winer": 8.0,
+            "draw": 5.5
+        },
+        {
+            "league": "serie_A",
+            "date": "02-05-2021",
+            "local_team": "Udinese",
+            "visitor_team": "Juventus",
+            "local_winer": 7.0,
+            "visitor_winer": 1.42,
+            "draw": 4.75
+        },
+        {
+            "league": "superlig_turkey",
+            "date": "03-05-2021",
+            "local_team": "Fenerbahce",
+            "visitor_team": "BB_Erzurumspor",
+            "local_winer": "1.40",
+            "visitor_winer": "7.00",
+            "draw": "4.50"
+        },
+        {
+            "league": "holland",
+            "date": "03-05-2021",
+            "local_team": "Den_Haag",
+            "visitor_team": "Feyenoord",
+            "local_winer": "8.50",
+            "visitor_winer": "1.33",
+            "draw": "5.00"
+        },
+        {
+            "league": "laliga",
+            "date": "07-05-2021",
+            "local_team": "Real_Sociedad",
+            "visitor_team": "Elche",
+            "local_winer": "1.50",
+            "visitor_winer": "7.50",
+            "draw": "4.00"
+        },
+        {
+            "league": "premier_league",
+            "date": "07-05-2021",
+            "local_team": "Leicester_City",
+            "visitor_team": "Newcastle_United",
+            "local_winer": "1.36",
+            "visitor_winer": "8.00",
+            "draw": "5.00"
+        },
+        {
+            "league": "laliga",
+            "date": "08-05-2021",
+            "local_team": "Alaves",
+            "visitor_team": "Levante",
+            "local_winer": "11.00",
+            "visitor_winer": "1.36",
+            "draw": "3.60"
+        },
+        {
+            "league": "premier_league",
+            "date": "08-05-2021",
+            "local_team": "Liverpool",
+            "visitor_team": "Southampton_FC",
+            "local_winer": "1.30",
+            "visitor_winer": "8.50",
+            "draw": "5.75"
+        },
+        {
+            "league": "bundesliga",
+            "date": "08-05-2021",
+            "local_team": "TSG_Hoffenheim",
+            "visitor_team": "Schalke_04",
+            "local_winer": "1.28",
+            "visitor_winer": "9.00",
+            "draw": "6.00"
+        },
+        {
+            "league": "bundesliga",
+            "date": "08-05-2021",
+            "local_team": "Bayern_de_Munich",
+            "visitor_team": "Borussia_Mgladbach",
+            "local_winer": "1.33",
+            "visitor_winer": "8.00",
+            "draw": "5.50"
+        },
+        {
+            "league": "holland",
+            "date": "08-05-2021",
+            "local_team": "AZ",
+            "visitor_team": "Fortuna_Sittard",
+            "local_winer": "1.30",
+            "visitor_winer": "8.50",
+            "draw": "5.50"
+        },
+        {
+            "league": "laliga",
+            "date": "11-05-2021",
+            "local_team": "Elche",
+            "visitor_team": "Alaves",
+            "local_winer": "9.00",
+            "visitor_winer": "1.37",
+            "draw": "3.80"
+        },
+        {
+            "league": "laliga",
+            "date": "11-05-2021",
+            "local_team": "Levante",
+            "visitor_team": "Barcelona",
+            "local_winer": "13.00",
+            "visitor_winer": "1.18",
+            "draw": "7.50"
+        },
+        {
+            "league": "serie_A",
+            "date": "11-05-2021",
+            "local_team": "Napoles",
+            "visitor_team": "Udinense",
+            "local_winer": "1.33",
+            "visitor_winer": "7.50",
+            "draw": "4.75"
+        },
+        {
+            "league": "primeira_liga",
+            "date": "11-05-2021",
+            "local_team": "Sporting_Lisboa",
+            "visitor_team": "Boavista_Porto",
+            "local_winer": "1.30",
+            "visitor_winer": "9.00",
+            "draw": "5.25"
+        },
+        {
+            "league": "super_lig",
+            "date": "11-05-2021",
+            "local_team": "Besiktas",
+            "visitor_team": "Fatih_Karagumruk_I",
+            "local_winer": "1.22",
+            "visitor_winer": "11.00",
+            "draw": "6.00"
+        },
+        {
+            "league": "super_lig",
+            "date": "11-05-2021",
+            "local_team": "Denizlispor",
+            "visitor_team": "Galatasaray",
+            "local_winer": "12.00",
+            "visitor_winer": "1.18",
+            "draw": "6.50"
+        },
+        {
+            "league": "laliga",
+            "date": "12-05-2021",
+            "local_team": "Celta_de_Vigo",
+            "visitor_team": "Getafe",
+            "local_winer": "1.47",
+            "visitor_winer": "8.50",
+            "draw": "3.30"
+        },
+        {
+            "league": "austria",
+            "date": "12-05-2021",
+            "local_team": "Red_Bull_S",
+            "visitor_team": "Rapid_Viena",
+            "local_winer": "1.11",
+            "visitor_winer": "21.00",
+            "draw": "7.50"
+        },
+        {
+            "league": "serie_A",
+            "date": "12-05-2021",
+            "local_team": "Inter",
+            "visitor_team": "Roma",
+            "local_winer": "1.07",
+            "visitor_winer": "23.00",
+            "draw": "11.00"
+        },
+        {
+            "league": "serie_A",
+            "date": "12-05-2021",
+            "local_team": "Sassuolo",
+            "visitor_team": "Juventus",
+            "local_winer": "9.00",
+            "visitor_winer": "1.25",
+            "draw": "5.25"
+        },
+        {
+            "league": "laliga",
+            "date": "16-05-2021",
+            "local_team": "Granada",
+            "visitor_team": "Real_Madrid",
+            "local_winer": "7.50",
+            "visitor_winer": "1.37",
+            "draw": "5.25"
+        },
+        {
+            "league": "laliga",
+            "date": "16-05-2021",
+            "local_team": "Atletico_de_Madrid",
+            "visitor_team": "Osasuna",
+            "local_winer": "1.20",
+            "visitor_winer": "13.00",
+            "draw": "6.50"
+        },
+        {
+            "league": "laliga",
+            "date": "16-05-2021",
+            "local_team": "Barcelona",
+            "visitor_team": "Celta_de_Vigo",
+            "local_winer": "1.22",
+            "visitor_winer": "11.00",
+            "draw": "7.00"
+        },
+        {
+            "league": "laliga",
+            "date": "16-05-2021",
+            "local_team": "Real_Sociedad",
+            "visitor_team": "Real_Valladolid",
+            "local_winer": "1.57",
+            "visitor_winer": "6.00",
+            "draw": "4.00"
+        },
+        {
+            "league": "laliga_2",
+            "date": "16-05-2021",
+            "local_team": "Leganes",
+            "visitor_team": "Logro\u00f1es",
+            "local_winer": "1.57",
+            "visitor_winer": "6.50",
+            "draw": "3.60"
+        },
+        {
+            "league": "laliga_2",
+            "date": "16-05-2021",
+            "local_team": "Mallorca",
+            "visitor_team": "Alcorcon",
+            "local_winer": "1.66",
+            "visitor_winer": "6.50",
+            "draw": "3.20"
+        },
+        {
+            "league": "premier_League",
+            "date": "16-05-2021",
+            "local_team": "West_Brom",
+            "visitor_team": "Liverpool",
+            "local_winer": "12.00",
+            "visitor_winer": "1.22",
+            "draw": "6.50"
+        },
+        {
+            "league": "premier_League",
+            "date": "16-05-2021",
+            "local_team": "Everton",
+            "visitor_team": "Sheffield_United",
+            "local_winer": "1.37",
+            "visitor_winer": "8.00",
+            "draw": "5.00"
+        },
+        {
+            "league": "serie_A",
+            "date": "16-05-2021",
+            "local_team": "Milan",
+            "visitor_team": "Cagliari",
+            "local_winer": "1.37",
+            "visitor_winer": "7.50",
+            "draw": "5.00"
+        },
+        {
+            "league": "ligue_1",
+            "date": "16-05-2021",
+            "local_team": "Dijon",
+            "visitor_team": "Nantes",
+            "local_winer": "8.00",
+            "visitor_winer": "1.40",
+            "draw": "4.75"
+        },
+        {
+            "league": "ligue_1",
+            "date": "16-05-2021",
+            "local_team": "Lille",
+            "visitor_team": "Saint_Etienne",
+            "local_winer": "1.42",
+            "visitor_winer": "7.50",
+            "draw": "4.50"
+        },
+        {
+            "league": "ligue_1",
+            "date": "16-05-2021",
+            "local_team": "PSG",
+            "visitor_team": "State_de_Reims",
+            "local_winer": "1.12",
+            "visitor_winer": "21.00",
+            "draw": "9.00"
+        },
+        {
+            "league": "ligue_1",
+            "date": "23-05-2021",
+            "local_team": "Angers",
+            "visitor_team": "Lille",
+            "local_winer": "10.00",
+            "visitor_winer": "1.33",
+            "draw": "4.75"
+        },
+        {
+            "league": "ligue_1",
+            "date": "23-05-2021",
+            "local_team": "Brest",
+            "visitor_team": "PSG",
+            "local_winer": "10.00",
+            "visitor_winer": "1.24",
+            "draw": "6.50"
+        },
+        {
+            "league": "ligue_1",
+            "date": "23-05-2021",
+            "local_team": "O_Lyon",
+            "visitor_team": "Niza",
+            "local_winer": "1.20",
+            "visitor_winer": "12.00",
+            "draw": "7.00"
+        },
+        {
+            "league": "ligue_1",
+            "date": "23-05-2021",
+            "local_team": "Rennes",
+            "visitor_team": "Nimes",
+            "local_winer": "1.25",
+            "visitor_winer": "11.00",
+            "draw": "5.80"
+        },
+        {
+            "league": "ligue_1",
+            "date": "23-05-2021",
+            "local_team": "St_Etienne",
+            "visitor_team": "Dijon",
+            "local_winer": "1.27",
+            "visitor_winer": "11.00",
+            "draw": "5.50"
+        },
+        {
+            "league": "premiere_league",
+            "date": "23-05-2021",
+            "local_team": "Man_City",
+            "visitor_team": "Everton",
+            "local_winer": "1.40",
+            "visitor_winer": "7.00",
+            "draw": "5.00"
+        },
+        {
+            "league": "premiere_league",
+            "date": "23-05-2021",
+            "local_team": "Liverpool",
+            "visitor_team": "Crystal_Palace",
+            "local_winer": "1.15",
+            "visitor_winer": "17.00",
+            "draw": "6.00"
+        },
+        {
+            "league": "Serie_A",
+            "date": "23-05-2021",
+            "local_team": "Inter_Milan",
+            "visitor_team": "Udinese",
+            "local_winer": "1.38",
+            "visitor_winer": "7.50",
+            "draw": "5.00"
+        },
+        {
+            "league": "serie_A",
+            "date": "23-05-2021",
+            "local_team": "Bolonia",
+            "visitor_team": "Juventus",
+            "local_winer": "13.00",
+            "visitor_winer": "1.22",
+            "draw": "6.00"
+        },
+        {
+            "league": "serie_A",
+            "date": "23-05-2021",
+            "local_team": "Napoles",
+            "visitor_team": "Verona",
+            "local_winer": "1.20",
+            "visitor_winer": "13.00",
+            "draw": "6.50"
+        },
+        {
+            "league": "premiere_league",
+            "date": "23-05-2021",
+            "local_team": "Leeds",
+            "visitor_team": "West_Brom",
+            "local_winer": "1.47",
+            "visitor_winer": "6.00",
+            "draw": "4.80"
+        },
+        {
+            "league": "premiere_league",
+            "date": "23-05-2021",
+            "local_team": "Aston_Villa",
+            "visitor_team": "Chelsea",
+            "local_winer": "6.50",
+            "visitor_winer": "1.47",
+            "draw": "4.50"
+        }
+    ]
+}
